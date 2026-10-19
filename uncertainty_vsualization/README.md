@@ -24,7 +24,7 @@ The following table is an image of the dataset.
 - the column *signif* indicates either if *nt* is significant or not, meaning that *ic_nt*/*nt* is inferior to 0.8.
 - the column *taux* indicates the proportion of the corresponding tree stems (altered or not) on the overall number of tree stems. For the line representing the total number of tree stems (*deperis=ALL*), the column *taux* indicates the proportion of altered trees on the overall number of tree stems.
 
-![Alternative text](img/inventif.PNG "Data from the *Inventaire Forestier*")
+![Alternative text](img/tableau.PNG "Data from the *Inventaire Forestier*")
 *Source: Inventaire Forestier, IGN*
 
 The rate of altered trees is then calculated as the ratio of the number of affected stems to the total number of stems. 
