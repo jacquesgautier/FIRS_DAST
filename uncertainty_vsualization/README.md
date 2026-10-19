@@ -82,7 +82,7 @@ We will use it to define a series of features corresponding to the various color
 *Source: [Correll and al., 2018](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9)*
 
 8. Using the rule-based editor and the following color codes to represent the data using a VSUP color scale.
-Uncertainty level 1
+- Uncertainty level 1
 #3f1f69
 #434184
 #46628b
@@ -91,15 +91,15 @@ Uncertainty level 1
 #77b877
 #a0d156
 #dbe039
-Uncertainty level 2
+- Uncertainty level 2
 #685891
 #6e8b9f
 #84b798
 #c7db6d
-Uncertainty level 3
+- Uncertainty level 3
 #9094b2
 #b4d2a3
-Uncertainty level 4
+- Uncertainty level 4
 #bbc9c9
 
 ### Represent uncertainty on quantitative data
