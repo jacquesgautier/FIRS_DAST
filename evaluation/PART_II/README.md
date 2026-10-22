@@ -51,22 +51,22 @@ You will join annexes justifying your choice in terms of analysis, visualization
 
 #### Individual datasets
 
-[Bessard](bessard)
-[Corbeaux](corbeaux)
-[Cremier](cremier)
-[Debeaupuis](debeaupuis)
-[Etrillard](etrillard)
-[Gouget](gouget)
-[Lopez](lopez)
-[Maufreron](maufreron)
-[Petard](petard)
-[Stona](stona)
-[Taisne](taisne)
-[Valmenier](valmenier)
+[Bessard](data\bessard)
+[Corbeaux](data\corbeaux)
+[Cremier](data\cremier)
+[Debeaupuis](data\debeaupuis)
+[Etrillard](data\etrillard)
+[Gouget](data\gouget)
+[Lopez](data\lopez)
+[Maufreron](data\maufreron)
+[Petard](data\petard)
+[Stona](data\stona)
+[Taisne](data\taisne)
+[Valmenier](data\valmenier)
 
 #### Common datasets: geographical contours
 
-[Geographical contours](geographic_contours)
+[Geographical contours](data\geographic_contours)
 
 ### Interesting ressources
 
